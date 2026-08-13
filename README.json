@@ -1,0 +1,293 @@
+{
+  "items": [
+    {
+      "description": "List of useful plugins to make WordPress and Gatsby work together. Ordered alphabetically.",
+      "items": [],
+      "title": "Plugins"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "WordPress"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WPGraphQL JWT Authentication",
+          "description": "Extends the WPGraphQL plugin to provide authentication using JWT (JSON Web Tokens).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-13T21:38:30Z",
+            "owner": "wp-graphql",
+            "repo": "wp-graphql-jwt-authentication",
+            "stars": 363
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WPGraphQL Gutenberg",
+          "description": "Exposes Gutenberg blocks to the WPGraphQL API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-08-22T09:05:28Z",
+            "owner": "pristas-peter",
+            "repo": "wp-graphql-gutenberg",
+            "stars": 305
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WPGraphQL Cors",
+          "description": "This FREE plugin from @kidunot89 and @byfunkhaus claims to enable authentication with WPGraphQL to “just work” by allowing you to set CORS headers that GraphQL will accept, which means WordPress default auth cookies can be accepted.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-10-03T01:34:38Z",
+            "owner": "funkhaus",
+            "repo": "wp-graphql-cors",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WPGraphQL Meta Query",
+          "description": "Adds Meta_Query support to the WPGraphQL Plugin for postObject query args.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-06-14T08:48:51Z",
+            "owner": "wp-graphql",
+            "repo": "wp-graphql-meta-query",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WPGraphQL Lock",
+          "description": "Enables query locking for WPGraphQL by implementing persisted GraphQL queries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-18T07:53:45Z",
+            "owner": "valu-digital",
+            "repo": "wp-graphql-lock",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WPGraphQL Send Email",
+          "description": "This FREE plugin from @Ash_Hitchcock allows you to send emails via a simple mutation. Includes the abilitty to restrict sending to trusted origins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-05-15T07:55:17Z",
+            "owner": "ashhitch",
+            "repo": "wp-graphql-send-mail",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WPGraphQL Meta",
+          "description": "This FREE plugin from @robertorourke exposes meta registered via the WordPress register_meta API to WPGraphQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-04-03T06:11:09Z",
+            "owner": "roborourke",
+            "repo": "wp-graphql-meta",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WPGraphQL Persisted Queries",
+          "description": "This FREE plugin from @qz adds the ability to use Persisted Queries with WPGraphQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2019-09-18T13:18:43Z",
+            "owner": "Quartz",
+            "repo": "wp-graphql-persisted-queries",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Total Counts for WPGraphQL",
+          "description": "This FREE plugin from @builtbycactus exposes total counts to connections in the WPGraphQL Schema.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-08-31T16:29:17Z",
+            "owner": "builtbycactus",
+            "repo": "total-counts-for-wp-graphql",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WPGraphQL Offset Pagination",
+          "description": "This FREE plugin from @enshrined adds basic offset pagination as opposed to the standard Cursor based pagination that ships with WPGraphQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-01-28T16:26:33Z",
+            "owner": "darylldoyle",
+            "repo": "wp-graphql-offset-pagination",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "WPGraphQL Extensions"
+    },
+    {
+      "description": "Note: Since the release of gatsby-source-wordpress V4, it is the preferred over gatsby-source-graphql and therefore I will only list tutorials related to that approach.",
+      "items": [],
+      "title": "Free Tutorials / Courses"
+    },
+    {
+      "description": "List of project starters, that you can clone and start building upon.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Gatsby + Headless WordPress + Netlify Starter",
+          "description": "A Gatsby + WordPress starter for continuous deployment to Netlify.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-11T19:05:48Z",
+            "owner": "justinwhall",
+            "repo": "gatsby-wordpress-netlify-starter",
+            "stars": 212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gatsby Starter - WordPress Twenty Twenty",
+          "description": "A port of the WordPress Twenty Twenty theme to Gatsby using the new gatsby-source-wordpress@v4.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2022-12-13T21:47:39Z",
+            "owner": "henrikwirth",
+            "repo": "gatsby-starter-wordpress-twenty-twenty",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gatsby + WPGraphQL Blog Example",
+          "description": "Demo showing how to use WPGraphQL as the source for Gatsby Sites.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-10-05T20:48:31Z",
+            "owner": "wp-graphql",
+            "repo": "gatsby-wpgraphql-blog-example",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gatsby WordPress Starter Advanced",
+          "description": "An advanced Gatsby + WordPress starter, that is built along a tutorial series and works with ACF flexible content fields to create content blocks/layouts.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-06-10T10:25:22Z",
+            "owner": "henrikwirth",
+            "repo": "gatsby-starter-wordpress-advanced",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gatsby Starter Blog",
+          "description": "Blog starter with enough features to be production ready out of the box.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-06-10T00:31:33Z",
+            "owner": "zeevo",
+            "repo": "gatsby-starter-wordpress-blog",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Starters"
+    },
+    {
+      "description": "List of gatsby-themes that work with WordPress as a source, which you can use in your Gatsby setup.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Twenty Nineteen Gatsby Theme",
+          "description": "A port of the Twenty Nineteen WordPress Theme over to Gatsby.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2023-01-03T17:44:47Z",
+            "owner": "zgordon",
+            "repo": "twentynineteen-gatsby-theme",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gatsby WordPress Publisher Theme",
+          "description": "The Gatsby Publisher Theme allows you to create a headless (or decoupled) WordPress site. This theme will display all of your pages and posts in a static front-end built on React and Gatsby.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-04T09:18:09Z",
+            "owner": "staticfuse",
+            "repo": "staticfuse",
+            "stars": 31
+          }
+        }
+      ],
+      "title": "Themes"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "To the extent possible under law, Henrik Wirth has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:24:51.678Z",
+    "original_repository": "henrikwirth/awesome-wordpress-gatsby",
+    "original_repository_sha": "f28012c3c4f9d363aaa36387d1f31fcb33bde384",
+    "enhanced_repository": "enhansome/enhansome-wordpress-gatsby",
+    "enhanced_repository_description": null,
+    "title": "Awesome wordpress gatsby with stars"
+  }
+}
