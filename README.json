@@ -2,164 +2,533 @@
   "items": [
     {
       "description": "List of useful plugins to make WordPress and Gatsby work together. Ordered alphabetically.",
-      "items": [],
-      "title": "Plugins"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "WordPress"
-    },
-    {
-      "description": "",
       "items": [
         {
-          "node_type": "item",
-          "title": "WPGraphQL JWT Authentication",
-          "description": "Extends the WPGraphQL plugin to provide authentication using JWT (JSON Web Tokens).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-03-13T21:38:30Z",
-            "owner": "wp-graphql",
-            "repo": "wp-graphql-jwt-authentication",
-            "stars": 363
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WPGraphQL Gutenberg",
-          "description": "Exposes Gutenberg blocks to the WPGraphQL API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2024-08-22T09:05:28Z",
-            "owner": "pristas-peter",
-            "repo": "wp-graphql-gutenberg",
-            "stars": 305
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WPGraphQL Cors",
-          "description": "This FREE plugin from @kidunot89 and @byfunkhaus claims to enable authentication with WPGraphQL to “just work” by allowing you to set CORS headers that GraphQL will accept, which means WordPress default auth cookies can be accepted.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2023-10-03T01:34:38Z",
-            "owner": "funkhaus",
-            "repo": "wp-graphql-cors",
-            "stars": 125
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WPGraphQL Meta Query",
-          "description": "Adds Meta_Query support to the WPGraphQL Plugin for postObject query args.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2024-06-14T08:48:51Z",
-            "owner": "wp-graphql",
-            "repo": "wp-graphql-meta-query",
-            "stars": 59
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WPGraphQL Lock",
-          "description": "Enables query locking for WPGraphQL by implementing persisted GraphQL queries.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-03-18T07:53:45Z",
-            "owner": "valu-digital",
-            "repo": "wp-graphql-lock",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WPGraphQL Send Email",
-          "description": "This FREE plugin from @Ash_Hitchcock allows you to send emails via a simple mutation. Includes the abilitty to restrict sending to trusted origins.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-05-15T07:55:17Z",
-            "owner": "ashhitch",
-            "repo": "wp-graphql-send-mail",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WPGraphQL Meta",
-          "description": "This FREE plugin from @robertorourke exposes meta registered via the WordPress register_meta API to WPGraphQL.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2021-04-03T06:11:09Z",
-            "owner": "roborourke",
-            "repo": "wp-graphql-meta",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WPGraphQL Persisted Queries",
-          "description": "This FREE plugin from @qz adds the ability to use Persisted Queries with WPGraphQL.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2019-09-18T13:18:43Z",
-            "owner": "Quartz",
-            "repo": "wp-graphql-persisted-queries",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Total Counts for WPGraphQL",
-          "description": "This FREE plugin from @builtbycactus exposes total counts to connections in the WPGraphQL Schema.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2022-08-31T16:29:17Z",
-            "owner": "builtbycactus",
-            "repo": "total-counts-for-wp-graphql",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WPGraphQL Offset Pagination",
-          "description": "This FREE plugin from @enshrined adds basic offset pagination as opposed to the standard Cursor based pagination that ships with WPGraphQL.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2020-01-28T16:26:33Z",
-            "owner": "darylldoyle",
-            "repo": "wp-graphql-offset-pagination",
-            "stars": 17
-          }
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "WPGraphQL JWT Authentication",
+                  "description": "Extends the WPGraphQL plugin to provide authentication using JWT (JSON Web Tokens).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 87973307,
+                    "language": "PHP",
+                    "last_commit": "2026-03-13T21:38:30Z",
+                    "owner": "wp-graphql",
+                    "repo": "wp-graphql-jwt-authentication",
+                    "stars": 363
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WPGraphQL Gutenberg",
+                  "description": "Exposes Gutenberg blocks to the WPGraphQL API.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 168518192,
+                    "language": "PHP",
+                    "last_commit": "2024-08-22T09:05:28Z",
+                    "owner": "pristas-peter",
+                    "repo": "wp-graphql-gutenberg",
+                    "stars": 305
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WPGraphQL Cors",
+                  "description": "This FREE plugin from @kidunot89 and @byfunkhaus claims to enable authentication with WPGraphQL to “just work” by allowing you to set CORS headers that GraphQL will accept, which means WordPress default auth cookies can be accepted.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 219808356,
+                    "language": "PHP",
+                    "last_commit": "2023-10-03T01:34:38Z",
+                    "owner": "funkhaus",
+                    "repo": "wp-graphql-cors",
+                    "stars": 125
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WPGraphQL Meta Query",
+                  "description": "Adds Meta_Query support to the WPGraphQL Plugin for postObject query args.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 81971132,
+                    "language": "PHP",
+                    "last_commit": "2024-06-14T08:48:51Z",
+                    "owner": "wp-graphql",
+                    "repo": "wp-graphql-meta-query",
+                    "stars": 59
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WPGraphQL Lock",
+                  "description": "Enables query locking for WPGraphQL by implementing persisted GraphQL queries.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 185459430,
+                    "language": "PHP",
+                    "last_commit": "2026-03-18T07:53:45Z",
+                    "owner": "valu-digital",
+                    "repo": "wp-graphql-lock",
+                    "stars": 25
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WPGraphQL Send Email",
+                  "description": "This FREE plugin from @Ash_Hitchcock allows you to send emails via a simple mutation. Includes the abilitty to restrict sending to trusted origins.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 261263052,
+                    "language": "PHP",
+                    "last_commit": "2026-05-15T07:55:17Z",
+                    "owner": "ashhitch",
+                    "repo": "wp-graphql-send-mail",
+                    "stars": 23
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WPGraphQL Meta",
+                  "description": "This FREE plugin from @robertorourke exposes meta registered via the WordPress register_meta API to WPGraphQL.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 91895214,
+                    "language": "PHP",
+                    "last_commit": "2021-04-03T06:11:09Z",
+                    "owner": "roborourke",
+                    "repo": "wp-graphql-meta",
+                    "stars": 21
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WPGraphQL Persisted Queries",
+                  "description": "This FREE plugin from @qz adds the ability to use Persisted Queries with WPGraphQL.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 164884641,
+                    "language": "PHP",
+                    "last_commit": "2019-09-18T13:18:43Z",
+                    "owner": "Quartz",
+                    "repo": "wp-graphql-persisted-queries",
+                    "stars": 21
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Total Counts for WPGraphQL",
+                  "description": "This FREE plugin from @builtbycactus exposes total counts to connections in the WPGraphQL Schema.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 203570717,
+                    "language": "PHP",
+                    "last_commit": "2022-08-31T16:29:17Z",
+                    "owner": "builtbycactus",
+                    "repo": "total-counts-for-wp-graphql",
+                    "stars": 20
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WPGraphQL Offset Pagination",
+                  "description": "This FREE plugin from @enshrined adds basic offset pagination as opposed to the standard Cursor based pagination that ships with WPGraphQL.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 226869319,
+                    "language": "PHP",
+                    "last_commit": "2020-01-28T16:26:33Z",
+                    "owner": "darylldoyle",
+                    "repo": "wp-graphql-offset-pagination",
+                    "stars": 17
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WPGraphQL for WooCommerce",
+                  "description": "This FREE plugin exposes WooCommerce data to WPGraphQL allowing you to interact with your store’s data via GraphQL Queries and mutations.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 175459051,
+                    "language": "PHP",
+                    "last_commit": "2026-06-30T14:50:01Z",
+                    "owner": "wp-graphql",
+                    "repo": "wp-graphql-woocommerce",
+                    "stars": 704
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WPGraphQL for Advanced Custom Fields",
+                  "description": "Exposes Advanced Custom Fields to the WPGraphQL Schema.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 183248851,
+                    "language": "PHP",
+                    "last_commit": "2024-07-22T18:04:14Z",
+                    "owner": "wp-graphql",
+                    "repo": "wp-graphql-acf",
+                    "stars": 615
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WPGraphQL for SEOPress",
+                  "description": "This FREE plugin from @moon_meister exposes data managed by SEOPress to the WPGraphQL Schema, allowing for SEO data to be used in your headless applications.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 166688908,
+                    "language": "PHP",
+                    "last_commit": "2026-08-11T20:36:19Z",
+                    "owner": "ashhitch",
+                    "repo": "wp-graphql-yoast-seo",
+                    "stars": 231
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WPGraphQl Yoast SEO Plugin",
+                  "description": "Exposes Yoast SEO data to the WPGraphQL Plugin.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 166688908,
+                    "language": "PHP",
+                    "last_commit": "2026-08-11T20:36:19Z",
+                    "owner": "ashhitch",
+                    "repo": "wp-graphql-yoast-seo",
+                    "stars": 231
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WPGraphQL for Gravity Forms",
+                  "description": "This FREE plugin from @KellenMace of @harness_up exposes @gravityforms data to WPGraphQL, allowing you to query for forms, fields, entries, and more.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 186505874,
+                    "language": "PHP",
+                    "last_commit": "2026-08-10T09:32:07Z",
+                    "owner": "AxeWP",
+                    "repo": "wp-graphql-gravity-forms",
+                    "stars": 174
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WPGraphQL Polylang Extension",
+                  "description": "Extends WPGraphQL schema with language data from the Polylang plugin.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 174859761,
+                    "language": "PHP",
+                    "last_commit": "2025-05-06T13:26:51Z",
+                    "owner": "valu-digital",
+                    "repo": "wp-graphql-polylang",
+                    "stars": 148
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WPGraphQL for Custom Post Type UI",
+                  "description": "This FREE plugin adds settings to Custom Post Type UI allowing you to set which Post Types and Taxonomies registered by CPTUI should display in the WPGraphQL Schema.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 186951120,
+                    "language": "PHP",
+                    "last_commit": "2021-03-31T13:40:04Z",
+                    "owner": "wp-graphql",
+                    "repo": "wp-graphql-custom-post-type-ui",
+                    "stars": 86
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WPGraphQL Content Blocks",
+                  "description": "This FREE plugin from the folks at QZ.com exposes a way to query HTML content from WordPress Posts and Pages as “Blocks” (not related to Gutenberg) to bring more structure to your queried content.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 130764249,
+                    "language": "PHP",
+                    "last_commit": "2021-12-15T11:34:55Z",
+                    "owner": "Quartz",
+                    "repo": "wp-graphql-content-blocks",
+                    "stars": 82
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WPGraphQL Gutenberg ACF",
+                  "description": "Exposes ACF blocks through GraphQL",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 186662631,
+                    "language": "PHP",
+                    "last_commit": "2023-04-27T14:15:40Z",
+                    "owner": "pristas-peter",
+                    "repo": "wp-graphql-gutenberg-acf",
+                    "stars": 61
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WPGraphQL Tax Query",
+                  "description": "Adds Tax_Query support to the WPGraphQL Plugin for postObject query args (WP_Query).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 81971174,
+                    "language": "PHP",
+                    "last_commit": "2022-11-08T17:13:28Z",
+                    "owner": "wp-graphql",
+                    "repo": "wp-graphql-tax-query",
+                    "stars": 55
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WPGraphQL WPML",
+                  "description": "This FREE plugin from @rburgst extends the WPGraphQL schema with language data from the WPML plugin. In addition it turns off WPML default filters in order to be able to iterate over all posts regardless of language.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 293522837,
+                    "language": "PHP",
+                    "last_commit": "2023-03-22T11:35:48Z",
+                    "owner": "rburgst",
+                    "repo": "wp-graphql-wpml",
+                    "stars": 51
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WPGraphQL for BuddyPress",
+                  "description": "This FREE plugin from @RenatoNascAlves exposes BuddyPress data to WPGraphQL.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 216412698,
+                    "language": "PHP",
+                    "last_commit": "2025-12-13T19:25:15Z",
+                    "owner": "renatonascalves",
+                    "repo": "wp-graphql-buddypress",
+                    "stars": 42
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WPGraphQL for FacetWP",
+                  "description": "This FREE plugin from @hsimah exposes filters on WPGraphQL queries to allow for faceted search with FacetWP.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 190951574,
+                    "language": "PHP",
+                    "last_commit": "2025-06-07T13:24:51Z",
+                    "owner": "AxeWP",
+                    "repo": "wp-graphql-facetwp",
+                    "stars": 35
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WPGraphQL for Metabox",
+                  "description": "This FREE plugin from @hsimah exposes fields registered using the popular http://MetaBox.io to the WPGraphQL Schema.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 183317302,
+                    "language": "PHP",
+                    "last_commit": "2025-01-10T07:27:04Z",
+                    "owner": "hsimah-services",
+                    "repo": "wp-graphql-metabox",
+                    "stars": 28
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WPGraphQL for Carbon Fields",
+                  "description": "This FREE plugin from @matepaiva exposes fields registered using Carbon Fields to the WPGraphQL Schema.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 229821722,
+                    "language": "PHP",
+                    "last_commit": "2024-02-18T14:43:57Z",
+                    "owner": "matepaiva",
+                    "repo": "wp-graphql-crb",
+                    "stars": 24
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WPGraphQL Enable All Post Types (DalkMania)",
+                  "description": "This FREE plugin from @DalkMania automatically adds ALL registered post types to the WPGraphQL Schema.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 141946760,
+                    "language": "PHP",
+                    "last_commit": "2023-05-23T13:51:55Z",
+                    "owner": "DalkMania",
+                    "repo": "wp-graphql-cpt",
+                    "stars": 16
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "QL Search",
+                  "description": "An extension that integrates SearchWP into WPGraphQL.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 221817128,
+                    "language": "PHP",
+                    "last_commit": "2020-11-23T16:59:17Z",
+                    "owner": "funkhaus",
+                    "repo": "ql-search",
+                    "stars": 13
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WPGraphQL MB (MetaBox)",
+                  "description": "This FREE plugin from @DalkMania adds all registered metaboxes using metabox.io to the WPGraphQL Schema.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 149679706,
+                    "language": "PHP",
+                    "last_commit": "2022-05-10T21:17:23Z",
+                    "owner": "DalkMania",
+                    "repo": "wp-graphql-mb",
+                    "stars": 13
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WPGraphQL MetaBox Relationships",
+                  "description": "This FREE plugin from @hsimah adds support for the metabox.io Relationships field to WPGraphQL (when also using his wp-graphql-metabox plugin).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 224246824,
+                    "language": "PHP",
+                    "last_commit": "2020-07-25T23:13:44Z",
+                    "owner": "hsimah-services",
+                    "repo": "wp-graphql-mb-relationships",
+                    "stars": 11
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WPGraphQL for Ninja Forms",
+                  "description": "This free plugin exposes forms created by the Ninja Forms plugin to the WPGraphQL Schema and allows for the forms to be submitted via GraphQL Mutations.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 320689066,
+                    "language": "PHP",
+                    "last_commit": "2021-09-24T13:26:20Z",
+                    "owner": "toriphes",
+                    "repo": "wp-graphql-ninja-forms",
+                    "stars": 11
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WPGraphQL Enable All Post Types (TylerBarnes)",
+                  "description": "This FREE plugin from @tylbar automatically adds ALL registered post types to the WPGraphQL Schema.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 178755583,
+                    "language": "PHP",
+                    "last_commit": "2020-07-08T21:48:29Z",
+                    "owner": "TylerBarnes",
+                    "repo": "wp-graphql-enable-all-post-types",
+                    "stars": 9
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WPGraphQL Google Schema",
+                  "description": "This FREE plugin from @izzygld261 adds Google Schema support to WPGraphQL.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 228395017,
+                    "language": "Vue",
+                    "last_commit": "2020-02-18T13:13:44Z",
+                    "owner": "izzygld",
+                    "repo": "wp-graphql-google-schema",
+                    "stars": 9
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WPGraphQL for Posts 2 Posts",
+                  "description": "This FREE plugin from @KellenMace of @harness_up automatically creates GraphQL connections for all of your Posts 2 Posts connections.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 291078717,
+                    "language": "PHP",
+                    "last_commit": "2023-03-28T23:40:59Z",
+                    "owner": "harness-software",
+                    "repo": "wp-graphql-posts-to-posts",
+                    "stars": 9
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WPGraphQL Polls",
+                  "description": "This FREE plugin from @andrenosouza allows you to interact with data from the WP-Polls plugin via GraphQL Queries and Mutations.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 205842308,
+                    "language": "PHP",
+                    "last_commit": "2019-09-03T12:12:14Z",
+                    "owner": "andrenoberto",
+                    "repo": "wp-graphql-polls",
+                    "stars": 4
+                  }
+                }
+              ],
+              "description": "Extensions for that use other plugins with WPGraphQL",
+              "node_type": "group",
+              "title": "WPGraphQL Extensions"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "WordPress"
         }
       ],
-      "title": "WPGraphQL Extensions"
-    },
-    {
-      "description": "Note: Since the release of gatsby-source-wordpress V4, it is the preferred over gatsby-source-graphql and therefore I will only list tutorials related to that approach.",
-      "items": [],
-      "title": "Free Tutorials / Courses"
+      "title": "Plugins"
     },
     {
       "description": "List of project starters, that you can clone and start building upon.",
@@ -171,6 +540,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137689562,
             "language": "JavaScript",
             "last_commit": "2023-01-11T19:05:48Z",
             "owner": "justinwhall",
@@ -185,6 +555,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 258044376,
             "language": "CSS",
             "last_commit": "2022-12-13T21:47:39Z",
             "owner": "henrikwirth",
@@ -199,6 +570,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 164533069,
             "language": "JavaScript",
             "last_commit": "2022-10-05T20:48:31Z",
             "owner": "wp-graphql",
@@ -213,6 +585,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 223503578,
             "language": "JavaScript",
             "last_commit": "2021-06-10T10:25:22Z",
             "owner": "henrikwirth",
@@ -227,6 +600,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 246720724,
             "language": "JavaScript",
             "last_commit": "2023-06-10T00:31:33Z",
             "owner": "zeevo",
@@ -247,6 +621,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 172543874,
             "language": "CSS",
             "last_commit": "2023-01-03T17:44:47Z",
             "owner": "zgordon",
@@ -261,6 +636,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 205414788,
             "language": "JavaScript",
             "last_commit": "2023-01-04T09:18:09Z",
             "owner": "staticfuse",
@@ -270,20 +646,10 @@
         }
       ],
       "title": "Themes"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "To the extent possible under law, Henrik Wirth has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T08:16:25.687Z",
+    "last_updated": "2026-08-19T08:17:26.366Z",
     "original_repository": "henrikwirth/awesome-wordpress-gatsby",
     "original_repository_sha": "f28012c3c4f9d363aaa36387d1f31fcb33bde384",
     "enhanced_repository": "enhansome/enhansome-wordpress-gatsby",
