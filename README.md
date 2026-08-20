@@ -80,7 +80,7 @@ List of useful plugins to make WordPress and Gatsby work together. Ordered alpha
 
 #### Essential Plugins
 
-* [WPGraphQL](https://github.com/wp-graphql/wp-graphql) ⭐ 3,790 | 🐛 79 | 🌐 PHP | 📅 2026-08-18 - [Documentation](https://docs.wpgraphql.com/) - WPGraphQL brings the power of GraphQL to your WordPress site.
+* [WPGraphQL](https://github.com/wp-graphql/wp-graphql) ⭐ 3,790 | 🐛 80 | 🌐 PHP | 📅 2026-08-18 - [Documentation](https://docs.wpgraphql.com/) - WPGraphQL brings the power of GraphQL to your WordPress site.
 * [WPGatsby](https://wordpress.org/plugins/wp-gatsby/) - This plugin configures your WordPress site to be an optimized source for Gatsby.
 
 #### WPGraphQL Extensions
@@ -100,11 +100,11 @@ List of useful plugins to make WordPress and Gatsby work together. Ordered alpha
 
 **Extensions for that use other plugins with WPGraphQL**
 
-* [WPGraphQL for WooCommerce](https://github.com/wp-graphql/wp-graphql-woocommerce) ⭐ 704 | 🐛 19 | 🌐 PHP | 📅 2026-06-30 - This FREE plugin exposes WooCommerce data to WPGraphQL allowing you to interact with your store’s data via GraphQL Queries and mutations.
+* [WPGraphQL for WooCommerce](https://github.com/wp-graphql/wp-graphql-woocommerce) ⭐ 705 | 🐛 19 | 🌐 PHP | 📅 2026-06-30 - This FREE plugin exposes WooCommerce data to WPGraphQL allowing you to interact with your store’s data via GraphQL Queries and mutations.
 * [WPGraphQL for Advanced Custom Fields](https://github.com/wp-graphql/wp-graphql-acf) ⚠️ Archived - Exposes Advanced Custom Fields to the WPGraphQL Schema.
 * [WPGraphQL for SEOPress](https://github.com/ashhitch/wp-graphql-yoast-seo) ⭐ 231 | 🐛 25 | 🌐 PHP | 📅 2026-08-11 - This FREE plugin from @moon\_meister exposes data managed by SEOPress to the WPGraphQL Schema, allowing for SEO data to be used in your headless applications.
 * [WPGraphQl Yoast SEO Plugin](https://github.com/ashhitch/wp-graphql-yoast-seo) ⭐ 231 | 🐛 25 | 🌐 PHP | 📅 2026-08-11 - Exposes Yoast SEO data to the WPGraphQL Plugin.
-* [WPGraphQL for Gravity Forms](https://github.com/harness-software/wp-graphql-gravity-forms) ⭐ 174 | 🐛 42 | 🌐 PHP | 📅 2026-08-10 - This FREE plugin from @KellenMace of @harness\_up exposes @gravityforms data to WPGraphQL, allowing you to query for forms, fields, entries, and more.
+* [WPGraphQL for Gravity Forms](https://github.com/harness-software/wp-graphql-gravity-forms) ⭐ 174 | 🐛 43 | 🌐 PHP | 📅 2026-08-20 - This FREE plugin from @KellenMace of @harness\_up exposes @gravityforms data to WPGraphQL, allowing you to query for forms, fields, entries, and more.
 * [WPGraphQL Polylang Extension](https://github.com/valu-digital/wp-graphql-polylang) ⭐ 148 | 🐛 50 | 🌐 PHP | 📅 2025-05-06 - Extends WPGraphQL schema with language data from the Polylang plugin.
 * [WPGraphQL for Custom Post Type UI](https://github.com/wp-graphql/wp-graphql-custom-post-type-ui) ⭐ 86 | 🐛 3 | 🌐 PHP | 📅 2021-03-31 - This FREE plugin adds settings to Custom Post Type UI allowing you to set which Post Types and Taxonomies registered by CPTUI should display in the WPGraphQL Schema.
 * [WPGraphQL Content Blocks](https://github.com/Quartz/wp-graphql-content-blocks) ⭐ 82 | 🐛 6 | 🌐 PHP | 📅 2021-12-15 - This FREE plugin from the folks at QZ.com exposes a way to query HTML content from WordPress Posts and Pages as “Blocks” (not related to Gutenberg) to bring more structure to your queried content.
@@ -198,4 +198,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
