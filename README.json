@@ -169,7 +169,7 @@
                     "last_commit": "2026-06-30T14:50:01Z",
                     "owner": "wp-graphql",
                     "repo": "wp-graphql-woocommerce",
-                    "stars": 705
+                    "stars": 706
                   }
                 },
                 {
@@ -649,7 +649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T08:20:46.228Z",
+    "last_updated": "2026-08-22T08:03:24.504Z",
     "original_repository": "henrikwirth/awesome-wordpress-gatsby",
     "original_repository_id": 202295428,
     "original_repository_sha": "f28012c3c4f9d363aaa36387d1f31fcb33bde384",
