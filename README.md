@@ -80,7 +80,7 @@ List of useful plugins to make WordPress and Gatsby work together. Ordered alpha
 
 #### Essential Plugins
 
-* [WPGraphQL](https://github.com/wp-graphql/wp-graphql) ⭐ 3,790 | 🐛 80 | 🌐 PHP | 📅 2026-08-22 - [Documentation](https://docs.wpgraphql.com/) - WPGraphQL brings the power of GraphQL to your WordPress site.
+* [WPGraphQL](https://github.com/wp-graphql/wp-graphql) ⭐ 3,790 | 🐛 87 | 🌐 PHP | 📅 2026-08-24 - [Documentation](https://docs.wpgraphql.com/) - WPGraphQL brings the power of GraphQL to your WordPress site.
 * [WPGatsby](https://wordpress.org/plugins/wp-gatsby/) - This plugin configures your WordPress site to be an optimized source for Gatsby.
 
 #### WPGraphQL Extensions
@@ -100,7 +100,7 @@ List of useful plugins to make WordPress and Gatsby work together. Ordered alpha
 
 **Extensions for that use other plugins with WPGraphQL**
 
-* [WPGraphQL for WooCommerce](https://github.com/wp-graphql/wp-graphql-woocommerce) ⭐ 706 | 🐛 19 | 🌐 PHP | 📅 2026-06-30 - This FREE plugin exposes WooCommerce data to WPGraphQL allowing you to interact with your store’s data via GraphQL Queries and mutations.
+* [WPGraphQL for WooCommerce](https://github.com/wp-graphql/wp-graphql-woocommerce) ⭐ 707 | 🐛 19 | 🌐 PHP | 📅 2026-06-30 - This FREE plugin exposes WooCommerce data to WPGraphQL allowing you to interact with your store’s data via GraphQL Queries and mutations.
 * [WPGraphQL for Advanced Custom Fields](https://github.com/wp-graphql/wp-graphql-acf) ⚠️ Archived - Exposes Advanced Custom Fields to the WPGraphQL Schema.
 * [WPGraphQL for SEOPress](https://github.com/ashhitch/wp-graphql-yoast-seo) ⭐ 231 | 🐛 25 | 🌐 PHP | 📅 2026-08-11 - This FREE plugin from @moon\_meister exposes data managed by SEOPress to the WPGraphQL Schema, allowing for SEO data to be used in your headless applications.
 * [WPGraphQl Yoast SEO Plugin](https://github.com/ashhitch/wp-graphql-yoast-seo) ⭐ 231 | 🐛 25 | 🌐 PHP | 📅 2026-08-11 - Exposes Yoast SEO data to the WPGraphQL Plugin.
@@ -198,4 +198,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
