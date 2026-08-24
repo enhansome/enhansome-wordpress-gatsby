@@ -127,10 +127,10 @@ List of useful plugins to make WordPress and Gatsby work together. Ordered alpha
 
 #### Other helpful Plugins
 
+* [WP JAMstack Deployments](https://github.com/crgeary/wp-jamstack-deployments) ⚠️ Archived - WordPress plugin for JAMstack deployments on Netlify (and other platforms).
 * [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/) - [ACF PRO](https://www.advancedcustomfields.com/pro/)
 * [Headless Mode](https://wordpress.org/plugins/headless-mode/) - Headless mode sets up a redirect for all users trying to access the site. The only requests that are granted admission are ones that are either trying to access the REST API, the WP GraphQL API, or any logged-in user looking to access the headless install to edit or create posts.
 * [Polylang](https://wordpress.org/plugins/polylang/)
-* [WP JAMstack Deployments](https://github.com/crgeary/wp-jamstack-deployments) ⚠️ Archived - WordPress plugin for JAMstack deployments on Netlify (and other platforms).
 
 ### Gatsby Plugins
 

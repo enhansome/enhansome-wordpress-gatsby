@@ -9,6 +9,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "WPGraphQL",
+                  "description": "Documentation - WPGraphQL brings the power of GraphQL to your WordPress site.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 72453516,
+                    "language": "PHP",
+                    "last_commit": "2026-08-24T01:40:18Z",
+                    "owner": "wp-graphql",
+                    "repo": "wp-graphql",
+                    "stars": 3790
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Essential Plugins"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "WPGraphQL JWT Authentication",
                   "description": "Extends the WPGraphQL plugin to provide authentication using JWT (JSON Web Tokens).",
                   "children": [],
@@ -521,6 +543,28 @@
               "description": "Extensions for that use other plugins with WPGraphQL",
               "node_type": "group",
               "title": "WPGraphQL Extensions"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "WP JAMstack Deployments",
+                  "description": "WordPress plugin for JAMstack deployments on Netlify (and other platforms).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 134476855,
+                    "language": "PHP",
+                    "last_commit": "2021-11-02T22:22:52Z",
+                    "owner": "crgeary",
+                    "repo": "wp-jamstack-deployments",
+                    "stars": 252
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Other helpful Plugins"
             }
           ],
           "description": null,
@@ -649,7 +693,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:30:02.582Z",
+    "last_updated": "2026-08-24T14:28:41.978Z",
     "original_repository": "henrikwirth/awesome-wordpress-gatsby",
     "original_repository_id": 202295428,
     "original_repository_sha": "f28012c3c4f9d363aaa36387d1f31fcb33bde384",
