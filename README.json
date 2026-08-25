@@ -16,10 +16,10 @@
                     "archived": false,
                     "id": 72453516,
                     "language": "PHP",
-                    "last_commit": "2026-08-24T01:40:18Z",
+                    "last_commit": "2026-08-24T15:40:30Z",
                     "owner": "wp-graphql",
                     "repo": "wp-graphql",
-                    "stars": 3790
+                    "stars": 3791
                   }
                 }
               ],
@@ -693,7 +693,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:28:41.978Z",
+    "last_updated": "2026-08-25T06:20:25.211Z",
     "original_repository": "henrikwirth/awesome-wordpress-gatsby",
     "original_repository_id": 202295428,
     "original_repository_sha": "f28012c3c4f9d363aaa36387d1f31fcb33bde384",
