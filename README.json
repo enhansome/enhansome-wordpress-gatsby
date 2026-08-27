@@ -16,7 +16,7 @@
                     "archived": false,
                     "id": 72453516,
                     "language": "PHP",
-                    "last_commit": "2026-08-24T15:40:30Z",
+                    "last_commit": "2026-08-26T21:29:47Z",
                     "owner": "wp-graphql",
                     "repo": "wp-graphql",
                     "stars": 3791
@@ -251,7 +251,7 @@
                     "last_commit": "2026-08-20T07:16:34Z",
                     "owner": "AxeWP",
                     "repo": "wp-graphql-gravity-forms",
-                    "stars": 174
+                    "stars": 175
                   }
                 },
                 {
@@ -693,9 +693,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T08:25:04.974Z",
-    "original_repository": "henrikwirth/awesome-wordpress-gatsby",
-    "original_repository_id": 202295428,
+    "last_updated": "2026-08-27T12:11:08.871Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 202295428,
+      "language": null,
+      "last_commit": "2021-05-02T09:02:29Z",
+      "owner": "henrikwirth",
+      "repo": "awesome-wordpress-gatsby",
+      "stars": 284
+    },
     "original_repository_sha": "f28012c3c4f9d363aaa36387d1f31fcb33bde384",
     "enhanced_repository": "enhansome/enhansome-wordpress-gatsby",
     "enhanced_repository_description": null,
