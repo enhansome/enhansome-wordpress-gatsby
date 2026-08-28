@@ -16,11 +16,12 @@
                     "archived": false,
                     "id": 72453516,
                     "language": "PHP",
-                    "last_commit": "2026-08-26T21:29:47Z",
+                    "last_commit": "2026-08-28T17:36:38Z",
                     "owner": "wp-graphql",
                     "repo": "wp-graphql",
                     "stars": 3792
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:27.461Z"
                 }
               ],
               "description": null,
@@ -42,7 +43,8 @@
                     "owner": "wp-graphql",
                     "repo": "wp-graphql-jwt-authentication",
                     "stars": 363
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:27.461Z"
                 },
                 {
                   "node_type": "item",
@@ -57,7 +59,8 @@
                     "owner": "pristas-peter",
                     "repo": "wp-graphql-gutenberg",
                     "stars": 305
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:27.461Z"
                 },
                 {
                   "node_type": "item",
@@ -72,7 +75,8 @@
                     "owner": "funkhaus",
                     "repo": "wp-graphql-cors",
                     "stars": 125
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:27.461Z"
                 },
                 {
                   "node_type": "item",
@@ -87,7 +91,8 @@
                     "owner": "wp-graphql",
                     "repo": "wp-graphql-meta-query",
                     "stars": 59
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:27.461Z"
                 },
                 {
                   "node_type": "item",
@@ -102,7 +107,8 @@
                     "owner": "valu-digital",
                     "repo": "wp-graphql-lock",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:27.461Z"
                 },
                 {
                   "node_type": "item",
@@ -117,7 +123,8 @@
                     "owner": "ashhitch",
                     "repo": "wp-graphql-send-mail",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:27.461Z"
                 },
                 {
                   "node_type": "item",
@@ -132,7 +139,8 @@
                     "owner": "roborourke",
                     "repo": "wp-graphql-meta",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:27.461Z"
                 },
                 {
                   "node_type": "item",
@@ -147,7 +155,8 @@
                     "owner": "Quartz",
                     "repo": "wp-graphql-persisted-queries",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:27.461Z"
                 },
                 {
                   "node_type": "item",
@@ -162,7 +171,8 @@
                     "owner": "builtbycactus",
                     "repo": "total-counts-for-wp-graphql",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:27.461Z"
                 },
                 {
                   "node_type": "item",
@@ -177,7 +187,8 @@
                     "owner": "darylldoyle",
                     "repo": "wp-graphql-offset-pagination",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:27.461Z"
                 },
                 {
                   "node_type": "item",
@@ -192,7 +203,8 @@
                     "owner": "wp-graphql",
                     "repo": "wp-graphql-woocommerce",
                     "stars": 707
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:27.461Z"
                 },
                 {
                   "node_type": "item",
@@ -207,7 +219,8 @@
                     "owner": "wp-graphql",
                     "repo": "wp-graphql-acf",
                     "stars": 615
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:27.461Z"
                 },
                 {
                   "node_type": "item",
@@ -222,7 +235,8 @@
                     "owner": "ashhitch",
                     "repo": "wp-graphql-yoast-seo",
                     "stars": 231
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:27.461Z"
                 },
                 {
                   "node_type": "item",
@@ -237,7 +251,8 @@
                     "owner": "ashhitch",
                     "repo": "wp-graphql-yoast-seo",
                     "stars": 231
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:27.461Z"
                 },
                 {
                   "node_type": "item",
@@ -252,7 +267,8 @@
                     "owner": "AxeWP",
                     "repo": "wp-graphql-gravity-forms",
                     "stars": 175
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:27.461Z"
                 },
                 {
                   "node_type": "item",
@@ -267,7 +283,8 @@
                     "owner": "valu-digital",
                     "repo": "wp-graphql-polylang",
                     "stars": 148
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:27.461Z"
                 },
                 {
                   "node_type": "item",
@@ -282,7 +299,8 @@
                     "owner": "wp-graphql",
                     "repo": "wp-graphql-custom-post-type-ui",
                     "stars": 86
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:27.461Z"
                 },
                 {
                   "node_type": "item",
@@ -297,7 +315,8 @@
                     "owner": "Quartz",
                     "repo": "wp-graphql-content-blocks",
                     "stars": 82
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:27.461Z"
                 },
                 {
                   "node_type": "item",
@@ -312,7 +331,8 @@
                     "owner": "pristas-peter",
                     "repo": "wp-graphql-gutenberg-acf",
                     "stars": 61
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:27.461Z"
                 },
                 {
                   "node_type": "item",
@@ -327,7 +347,8 @@
                     "owner": "wp-graphql",
                     "repo": "wp-graphql-tax-query",
                     "stars": 55
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:27.461Z"
                 },
                 {
                   "node_type": "item",
@@ -342,7 +363,8 @@
                     "owner": "rburgst",
                     "repo": "wp-graphql-wpml",
                     "stars": 51
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:27.461Z"
                 },
                 {
                   "node_type": "item",
@@ -357,7 +379,8 @@
                     "owner": "renatonascalves",
                     "repo": "wp-graphql-buddypress",
                     "stars": 42
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:27.461Z"
                 },
                 {
                   "node_type": "item",
@@ -372,7 +395,8 @@
                     "owner": "AxeWP",
                     "repo": "wp-graphql-facetwp",
                     "stars": 35
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:27.461Z"
                 },
                 {
                   "node_type": "item",
@@ -387,7 +411,8 @@
                     "owner": "hsimah-services",
                     "repo": "wp-graphql-metabox",
                     "stars": 28
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:27.461Z"
                 },
                 {
                   "node_type": "item",
@@ -402,7 +427,8 @@
                     "owner": "matepaiva",
                     "repo": "wp-graphql-crb",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:27.461Z"
                 },
                 {
                   "node_type": "item",
@@ -417,7 +443,8 @@
                     "owner": "DalkMania",
                     "repo": "wp-graphql-cpt",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:27.461Z"
                 },
                 {
                   "node_type": "item",
@@ -432,7 +459,8 @@
                     "owner": "funkhaus",
                     "repo": "ql-search",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:27.461Z"
                 },
                 {
                   "node_type": "item",
@@ -447,7 +475,8 @@
                     "owner": "DalkMania",
                     "repo": "wp-graphql-mb",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:27.461Z"
                 },
                 {
                   "node_type": "item",
@@ -462,7 +491,8 @@
                     "owner": "hsimah-services",
                     "repo": "wp-graphql-mb-relationships",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:27.461Z"
                 },
                 {
                   "node_type": "item",
@@ -477,7 +507,8 @@
                     "owner": "toriphes",
                     "repo": "wp-graphql-ninja-forms",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:27.461Z"
                 },
                 {
                   "node_type": "item",
@@ -492,7 +523,8 @@
                     "owner": "TylerBarnes",
                     "repo": "wp-graphql-enable-all-post-types",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:27.461Z"
                 },
                 {
                   "node_type": "item",
@@ -507,7 +539,8 @@
                     "owner": "izzygld",
                     "repo": "wp-graphql-google-schema",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:27.461Z"
                 },
                 {
                   "node_type": "item",
@@ -522,7 +555,8 @@
                     "owner": "harness-software",
                     "repo": "wp-graphql-posts-to-posts",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:27.461Z"
                 },
                 {
                   "node_type": "item",
@@ -537,7 +571,8 @@
                     "owner": "andrenoberto",
                     "repo": "wp-graphql-polls",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:27.461Z"
                 }
               ],
               "description": "Extensions for that use other plugins with WPGraphQL",
@@ -559,7 +594,8 @@
                     "owner": "crgeary",
                     "repo": "wp-jamstack-deployments",
                     "stars": 252
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:27.461Z"
                 }
               ],
               "description": null,
@@ -590,7 +626,8 @@
             "owner": "justinwhall",
             "repo": "gatsby-wordpress-netlify-starter",
             "stars": 212
-          }
+          },
+          "first_seen": "2026-08-28T19:36:27.461Z"
         },
         {
           "node_type": "item",
@@ -605,7 +642,8 @@
             "owner": "henrikwirth",
             "repo": "gatsby-starter-wordpress-twenty-twenty",
             "stars": 144
-          }
+          },
+          "first_seen": "2026-08-28T19:36:27.461Z"
         },
         {
           "node_type": "item",
@@ -620,7 +658,8 @@
             "owner": "wp-graphql",
             "repo": "gatsby-wpgraphql-blog-example",
             "stars": 144
-          }
+          },
+          "first_seen": "2026-08-28T19:36:27.461Z"
         },
         {
           "node_type": "item",
@@ -635,7 +674,8 @@
             "owner": "henrikwirth",
             "repo": "gatsby-starter-wordpress-advanced",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T19:36:27.461Z"
         },
         {
           "node_type": "item",
@@ -650,7 +690,8 @@
             "owner": "zeevo",
             "repo": "gatsby-starter-wordpress-blog",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T19:36:27.461Z"
         }
       ],
       "title": "Starters"
@@ -671,7 +712,8 @@
             "owner": "zgordon",
             "repo": "twentynineteen-gatsby-theme",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T19:36:27.461Z"
         },
         {
           "node_type": "item",
@@ -686,14 +728,15 @@
             "owner": "staticfuse",
             "repo": "staticfuse",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T19:36:27.461Z"
         }
       ],
       "title": "Themes"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T18:25:03.759Z",
+    "last_updated": "2026-08-28T19:36:27.461Z",
     "original_repository_info": {
       "archived": false,
       "id": 202295428,
