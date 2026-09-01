@@ -19,8 +19,8 @@
                     "id": 72453516,
                     "language": "PHP",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-31T01:33:28Z",
-                    "open_issues": 92,
+                    "last_commit": "2026-09-01T00:17:12Z",
+                    "open_issues": 83,
                     "owner": "wp-graphql",
                     "repo": "wp-graphql",
                     "stars": 3791,
@@ -185,7 +185,7 @@
                     "language": "PHP",
                     "license": "GPL-3.0",
                     "last_commit": "2026-05-15T07:55:17Z",
-                    "open_issues": 8,
+                    "open_issues": 7,
                     "owner": "ashhitch",
                     "repo": "wp-graphql-send-mail",
                     "stars": 23,
@@ -416,7 +416,7 @@
                     "id": 186505874,
                     "language": "PHP",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-20T07:16:34Z",
+                    "last_commit": "2026-08-31T20:43:54Z",
                     "open_issues": 43,
                     "owner": "AxeWP",
                     "repo": "wp-graphql-gravity-forms",
@@ -1086,7 +1086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T15:31:10.361Z",
+    "last_updated": "2026-09-01T12:47:00.025Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of resources about WordPress as a headless CMS with Gatsby",
