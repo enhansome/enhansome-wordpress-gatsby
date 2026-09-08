@@ -100,10 +100,10 @@ List of useful plugins to make WordPress and Gatsby work together. Ordered alpha
 
 **Extensions for that use other plugins with WPGraphQL**
 
-* [WPGraphQL for WooCommerce](https://github.com/wp-graphql/wp-graphql-woocommerce) ⭐ 707 | 🐛 19 | 🌐 PHP | 📅 2026-06-30 - This FREE plugin exposes WooCommerce data to WPGraphQL allowing you to interact with your store’s data via GraphQL Queries and mutations.
+* [WPGraphQL for WooCommerce](https://github.com/wp-graphql/wp-graphql-woocommerce) ⭐ 708 | 🐛 19 | 🌐 PHP | 📅 2026-06-30 - This FREE plugin exposes WooCommerce data to WPGraphQL allowing you to interact with your store’s data via GraphQL Queries and mutations.
 * [WPGraphQL for Advanced Custom Fields](https://github.com/wp-graphql/wp-graphql-acf) ⚠️ Archived - Exposes Advanced Custom Fields to the WPGraphQL Schema.
-* [WPGraphQL for SEOPress](https://github.com/ashhitch/wp-graphql-yoast-seo) ⭐ 231 | 🐛 25 | 🌐 PHP | 📅 2026-08-11 - This FREE plugin from @moon\_meister exposes data managed by SEOPress to the WPGraphQL Schema, allowing for SEO data to be used in your headless applications.
-* [WPGraphQl Yoast SEO Plugin](https://github.com/ashhitch/wp-graphql-yoast-seo) ⭐ 231 | 🐛 25 | 🌐 PHP | 📅 2026-08-11 - Exposes Yoast SEO data to the WPGraphQL Plugin.
+* [WPGraphQL for SEOPress](https://github.com/ashhitch/wp-graphql-yoast-seo) ⭐ 231 | 🐛 24 | 🌐 PHP | 📅 2026-08-11 - This FREE plugin from @moon\_meister exposes data managed by SEOPress to the WPGraphQL Schema, allowing for SEO data to be used in your headless applications.
+* [WPGraphQl Yoast SEO Plugin](https://github.com/ashhitch/wp-graphql-yoast-seo) ⭐ 231 | 🐛 24 | 🌐 PHP | 📅 2026-08-11 - Exposes Yoast SEO data to the WPGraphQL Plugin.
 * [WPGraphQL for Gravity Forms](https://github.com/harness-software/wp-graphql-gravity-forms) ⭐ 175 | 🐛 47 | 🌐 PHP | 📅 2026-09-07 - This FREE plugin from @KellenMace of @harness\_up exposes @gravityforms data to WPGraphQL, allowing you to query for forms, fields, entries, and more.
 * [WPGraphQL Polylang Extension](https://github.com/valu-digital/wp-graphql-polylang) ⭐ 149 | 🐛 50 | 🌐 PHP | 📅 2025-05-06 - Extends WPGraphQL schema with language data from the Polylang plugin.
 * [WPGraphQL for Custom Post Type UI](https://github.com/wp-graphql/wp-graphql-custom-post-type-ui) ⭐ 86 | 🐛 3 | 🌐 PHP | 📅 2021-03-31 - This FREE plugin adds settings to Custom Post Type UI allowing you to set which Post Types and Taxonomies registered by CPTUI should display in the WPGraphQL Schema.
@@ -198,4 +198,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
