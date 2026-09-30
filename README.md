@@ -80,13 +80,13 @@ List of useful plugins to make WordPress and Gatsby work together. Ordered alpha
 
 #### Essential Plugins
 
-* [WPGraphQL](https://github.com/wp-graphql/wp-graphql) ⭐ 3,793 | 🐛 120 | 🌐 PHP | 📅 2026-09-29 - [Documentation](https://docs.wpgraphql.com/) - WPGraphQL brings the power of GraphQL to your WordPress site.
+* [WPGraphQL](https://github.com/wp-graphql/wp-graphql) ⭐ 3,793 | 🐛 122 | 🌐 PHP | 📅 2026-09-29 - [Documentation](https://docs.wpgraphql.com/) - WPGraphQL brings the power of GraphQL to your WordPress site.
 * [WPGatsby](https://wordpress.org/plugins/wp-gatsby/) - This plugin configures your WordPress site to be an optimized source for Gatsby.
 
 #### WPGraphQL Extensions
 
 * [WPGraphQL JWT Authentication](https://github.com/wp-graphql/wp-graphql-jwt-authentication) ⭐ 362 | 🐛 64 | 🌐 PHP | 📅 2026-03-13 - Extends the WPGraphQL plugin to provide authentication using JWT (JSON Web Tokens).
-* [WPGraphQL Gutenberg](https://github.com/pristas-peter/wp-graphql-gutenberg) ⭐ 305 | 🐛 66 | 🌐 PHP | 📅 2024-08-22 - Exposes Gutenberg blocks to the WPGraphQL API.
+* [WPGraphQL Gutenberg](https://github.com/pristas-peter/wp-graphql-gutenberg) ⭐ 305 | 🐛 67 | 🌐 PHP | 📅 2024-08-22 - Exposes Gutenberg blocks to the WPGraphQL API.
 * [WPGraphQL Cors](https://github.com/funkhaus/wp-graphql-cors) ⭐ 125 | 🐛 3 | 🌐 PHP | 📅 2023-10-03 - This FREE plugin from @kidunot89 and @byfunkhaus claims to enable authentication with WPGraphQL to “just work” by allowing you to set CORS headers that GraphQL will accept, which means WordPress default auth cookies can be accepted.
 * [WPGraphQL Meta Query](https://github.com/wp-graphql/wp-graphql-meta-query) ⭐ 59 | 🐛 19 | 🌐 PHP | 📅 2024-06-14 - Adds Meta\_Query support to the WPGraphQL Plugin for postObject query args.
 * [WPGraphQL Lock](https://github.com/valu-digital/wp-graphql-lock) ⭐ 25 | 🐛 1 | 🌐 PHP | 📅 2026-03-18 - Enables query locking for WPGraphQL by implementing persisted GraphQL queries.
@@ -198,4 +198,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
