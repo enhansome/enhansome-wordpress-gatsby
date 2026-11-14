@@ -19,11 +19,11 @@
                     "id": 72453516,
                     "language": "PHP",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-13T00:21:27Z",
-                    "open_issues": 167,
+                    "last_commit": "2026-11-13T23:43:58Z",
+                    "open_issues": 153,
                     "owner": "wp-graphql",
                     "repo": "wp-graphql",
-                    "stars": 3796,
+                    "stars": 3797,
                     "topics": [
                       "api",
                       "gatsby",
@@ -1086,7 +1086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T15:42:50.249Z",
+    "last_updated": "2026-11-14T14:33:00.558Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of resources about WordPress as a headless CMS with Gatsby",
