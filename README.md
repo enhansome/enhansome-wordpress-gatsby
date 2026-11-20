@@ -80,13 +80,13 @@ List of useful plugins to make WordPress and Gatsby work together. Ordered alpha
 
 #### Essential Plugins
 
-* [WPGraphQL](https://github.com/wp-graphql/wp-graphql) ⭐ 3,798 | 🐛 157 | 🌐 PHP | 📅 2026-11-18 - [Documentation](https://docs.wpgraphql.com/) - WPGraphQL brings the power of GraphQL to your WordPress site.
+* [WPGraphQL](https://github.com/wp-graphql/wp-graphql) ⭐ 3,797 | 🐛 145 | 🌐 PHP | 📅 2026-11-19 - [Documentation](https://docs.wpgraphql.com/) - WPGraphQL brings the power of GraphQL to your WordPress site.
 * [WPGatsby](https://wordpress.org/plugins/wp-gatsby/) - This plugin configures your WordPress site to be an optimized source for Gatsby.
 
 #### WPGraphQL Extensions
 
 * [WPGraphQL JWT Authentication](https://github.com/wp-graphql/wp-graphql-jwt-authentication) ⭐ 362 | 🐛 65 | 🌐 PHP | 📅 2026-03-13 - Extends the WPGraphQL plugin to provide authentication using JWT (JSON Web Tokens).
-* [WPGraphQL Gutenberg](https://github.com/pristas-peter/wp-graphql-gutenberg) ⭐ 306 | 🐛 67 | 🌐 PHP | 📅 2024-08-22 - Exposes Gutenberg blocks to the WPGraphQL API.
+* [WPGraphQL Gutenberg](https://github.com/pristas-peter/wp-graphql-gutenberg) ⭐ 305 | 🐛 67 | 🌐 PHP | 📅 2024-08-22 - Exposes Gutenberg blocks to the WPGraphQL API.
 * [WPGraphQL Cors](https://github.com/funkhaus/wp-graphql-cors) ⭐ 125 | 🐛 3 | 🌐 PHP | 📅 2023-10-03 - This FREE plugin from @kidunot89 and @byfunkhaus claims to enable authentication with WPGraphQL to “just work” by allowing you to set CORS headers that GraphQL will accept, which means WordPress default auth cookies can be accepted.
 * [WPGraphQL Meta Query](https://github.com/wp-graphql/wp-graphql-meta-query) ⭐ 58 | 🐛 19 | 🌐 PHP | 📅 2024-06-14 - Adds Meta\_Query support to the WPGraphQL Plugin for postObject query args.
 * [WPGraphQL Lock](https://github.com/valu-digital/wp-graphql-lock) ⭐ 25 | 🐛 1 | 🌐 PHP | 📅 2026-03-18 - Enables query locking for WPGraphQL by implementing persisted GraphQL queries.
@@ -105,7 +105,7 @@ List of useful plugins to make WordPress and Gatsby work together. Ordered alpha
 * [WPGraphQL for SEOPress](https://github.com/ashhitch/wp-graphql-yoast-seo) ⭐ 231 | 🐛 22 | 🌐 PHP | 📅 2026-11-04 - This FREE plugin from @moon\_meister exposes data managed by SEOPress to the WPGraphQL Schema, allowing for SEO data to be used in your headless applications.
 * [WPGraphQl Yoast SEO Plugin](https://github.com/ashhitch/wp-graphql-yoast-seo) ⭐ 231 | 🐛 22 | 🌐 PHP | 📅 2026-11-04 - Exposes Yoast SEO data to the WPGraphQL Plugin.
 * [WPGraphQL for Gravity Forms](https://github.com/harness-software/wp-graphql-gravity-forms) ⭐ 177 | 🐛 53 | 🌐 PHP | 📅 2026-09-19 - This FREE plugin from @KellenMace of @harness\_up exposes @gravityforms data to WPGraphQL, allowing you to query for forms, fields, entries, and more.
-* [WPGraphQL Polylang Extension](https://github.com/valu-digital/wp-graphql-polylang) ⭐ 149 | 🐛 50 | 🌐 PHP | 📅 2025-05-06 - Extends WPGraphQL schema with language data from the Polylang plugin.
+* [WPGraphQL Polylang Extension](https://github.com/valu-digital/wp-graphql-polylang) ⭐ 149 | 🐛 49 | 🌐 PHP | 📅 2026-11-20 - Extends WPGraphQL schema with language data from the Polylang plugin.
 * [WPGraphQL for Custom Post Type UI](https://github.com/wp-graphql/wp-graphql-custom-post-type-ui) ⭐ 86 | 🐛 3 | 🌐 PHP | 📅 2021-03-31 - This FREE plugin adds settings to Custom Post Type UI allowing you to set which Post Types and Taxonomies registered by CPTUI should display in the WPGraphQL Schema.
 * [WPGraphQL Content Blocks](https://github.com/Quartz/wp-graphql-content-blocks) ⭐ 82 | 🐛 6 | 🌐 PHP | 📅 2021-12-15 - This FREE plugin from the folks at QZ.com exposes a way to query HTML content from WordPress Posts and Pages as “Blocks” (not related to Gutenberg) to bring more structure to your queried content.
 * [WPGraphQL Gutenberg ACF](https://github.com/pristas-peter/wp-graphql-gutenberg-acf) ⭐ 61 | 🐛 15 | 🌐 PHP | 📅 2023-04-27 - Exposes ACF blocks through GraphQL
@@ -198,4 +198,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
