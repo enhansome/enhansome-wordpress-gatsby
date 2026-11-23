@@ -80,7 +80,7 @@ List of useful plugins to make WordPress and Gatsby work together. Ordered alpha
 
 #### Essential Plugins
 
-* [WPGraphQL](https://github.com/wp-graphql/wp-graphql) ⭐ 3,797 | 🐛 146 | 🌐 PHP | 📅 2026-11-20 - [Documentation](https://docs.wpgraphql.com/) - WPGraphQL brings the power of GraphQL to your WordPress site.
+* [WPGraphQL](https://github.com/wp-graphql/wp-graphql) ⭐ 3,797 | 🐛 156 | 🌐 PHP | 📅 2026-11-23 - [Documentation](https://docs.wpgraphql.com/) - WPGraphQL brings the power of GraphQL to your WordPress site.
 * [WPGatsby](https://wordpress.org/plugins/wp-gatsby/) - This plugin configures your WordPress site to be an optimized source for Gatsby.
 
 #### WPGraphQL Extensions
@@ -198,4 +198,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
