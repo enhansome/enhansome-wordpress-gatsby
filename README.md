@@ -100,7 +100,7 @@ List of useful plugins to make WordPress and Gatsby work together. Ordered alpha
 
 **Extensions for that use other plugins with WPGraphQL**
 
-* [WPGraphQL for WooCommerce](https://github.com/wp-graphql/wp-graphql-woocommerce) ⭐ 713 | 🐛 22 | 🌐 PHP | 📅 2026-11-02 - This FREE plugin exposes WooCommerce data to WPGraphQL allowing you to interact with your store’s data via GraphQL Queries and mutations.
+* [WPGraphQL for WooCommerce](https://github.com/wp-graphql/wp-graphql-woocommerce) ⭐ 712 | 🐛 22 | 🌐 PHP | 📅 2026-11-02 - This FREE plugin exposes WooCommerce data to WPGraphQL allowing you to interact with your store’s data via GraphQL Queries and mutations.
 * [WPGraphQL for Advanced Custom Fields](https://github.com/wp-graphql/wp-graphql-acf) ⚠️ Archived - Exposes Advanced Custom Fields to the WPGraphQL Schema.
 * [WPGraphQL for SEOPress](https://github.com/ashhitch/wp-graphql-yoast-seo) ⭐ 231 | 🐛 22 | 🌐 PHP | 📅 2026-11-04 - This FREE plugin from @moon\_meister exposes data managed by SEOPress to the WPGraphQL Schema, allowing for SEO data to be used in your headless applications.
 * [WPGraphQl Yoast SEO Plugin](https://github.com/ashhitch/wp-graphql-yoast-seo) ⭐ 231 | 🐛 22 | 🌐 PHP | 📅 2026-11-04 - Exposes Yoast SEO data to the WPGraphQL Plugin.
@@ -198,4 +198,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
